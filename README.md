@@ -1,1 +1,0 @@
-Mans pirmais GIT projekts
